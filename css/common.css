@@ -771,6 +771,7 @@ footer img{
 	margin-top: 5%;
 }
 
+/*--------------------------------------*/
 
 /*ヘッダーバナー*/
 #ipnsh-item-header{
@@ -789,3 +790,26 @@ position:fixed;
 top: 57px;
 right:0px;
 z-index:9005;}
+
+/*--------------------------------------*/
+
+div#point{
+	width:100%;
+	background:#ffcc00;
+}
+
+#point p{
+	padding:10px 0;
+	color:#666;
+	font-size:18px;
+	font-weight:bold;
+	line-height:25px;
+}
+
+#point span{
+	font-size:30px;
+	color:#ff0000;
+	font-style:oblique;
+	padding-right:8px;
+
+}
