@@ -813,3 +813,7 @@ div#point{
 	padding-right:8px;
 
 }
+
+div.red{
+	background-color: #bf0000;
+}
